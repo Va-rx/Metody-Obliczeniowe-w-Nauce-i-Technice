@@ -7,5 +7,5 @@ dla różnych warunków brzegowych.
 Porównać interpolację funkcjami sklejanymi drugiego i trzeciego stopnia. Graficznie
 zilustrować interesujące przypadki.
 Opisać dokładnie przyjęte warunki brzegowe.  
-
+  
 $f(x) = e^{-3\sin(x)} + 3\sin(x) - 1, \quad x \in [-3\pi, 4\pi]$
