@@ -1,3 +1,4 @@
+<h1>Równania nieliniowe</h1>
 Stosując metodę Newtona oraz metodę siecznych wyznacz pierwiastki równania
 f(x)=0 w zadanym przedziale [a, b]. Dla metody Newtona wybierz punkty startowe rozpoczynając
 od wartości końców przedziału, zmniejszając je o 0.1 w kolejnych eksperymentach
