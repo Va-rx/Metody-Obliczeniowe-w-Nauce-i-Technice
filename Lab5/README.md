@@ -1,3 +1,4 @@
+<h1>Aproksymacja algebraiczna</h1>
 Dla funkcji f(x) zadanej w zadaniu dotyczącym interpolacji wyznaczyć jej wartości w n
 dyskretnych punktach. Następnie w oparciu o te punkty wyznaczyć przybliżenie funkcji
 wykorzystując aproksymację średniokwadratową wielomianami algebraicznymi.  
